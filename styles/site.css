@@ -20,6 +20,25 @@ a {
 	transition-duration: 0.25s;
 }
 
+/* Fonts
+---------------------------------------------------------------------------------------------------- */
+
+body {
+  font-family: 'Product Sans', Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+body,
+a {
+  color: rgba(0, 0, 0, 0.75);
+  text-decoration: none;
+}
+
+strong {
+	font-weight: 700;
+}
+
 /* Background
 ---------------------------------------------------------------------------------------------------- */
 
