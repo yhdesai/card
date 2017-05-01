@@ -63,9 +63,9 @@ body {
     overflow-x: hidden;
 }
 strong {
+    font-family: 'Satisfy', cursive;
     color: inherit;
     font-weight: bolder;
-    font-family: "Satisfy";
 }
 em {
     font-style: italic;
