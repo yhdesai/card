@@ -65,6 +65,7 @@ body {
 strong {
     color: inherit;
     font-weight: bolder;
+    font-family: "Satisfy";
 }
 em {
     font-style: italic;
